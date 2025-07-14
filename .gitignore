@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual Environments
+.venv/
+venv/
+
+# VSCode / IDE
+.vscode/
+.idea/
+
+# Secrets
+.env
+
+# Chroma DB Vectorstore
+app/vectorstore/
+
+# Cache
+*.sqlite3
+*.db
