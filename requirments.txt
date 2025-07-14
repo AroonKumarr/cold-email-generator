@@ -1,8 +1,0 @@
-streamlit
-langchain
-openai
-chromadb
-pandas
-tqdm
-python-dotenv
-sentence-transformers
